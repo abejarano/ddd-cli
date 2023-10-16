@@ -2,7 +2,7 @@
 
 
 ### instar
-1-. Clona el script Python desde un repositorio Git
+1-. Clona el script Python
 ```
 git clone https://github.com/abejarano/ddd-cli
 ```
@@ -19,7 +19,7 @@ if ! grep -q '/usr/local/bin' ~/.zshrc; then
 fi
 ```
 4-. Actualiza el entorno actual
-```
+
 source ~/.zshrc
 
 ```
